@@ -1,2 +1,10 @@
+#/"""or'''ex)+/-
+print(52+2//2*2**2)
+print()
+print(52, 38)
+print("안녕하세요")
+print('안녕하세요')
+print("'안녕하세요'라고말했습니다")
+print('"안녕하세요"라고 말했습니다.'+'원투쓰리'*3)
 string=input("인사말을 입력하세요>")
 print(string)
