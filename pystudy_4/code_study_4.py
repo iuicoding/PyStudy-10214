@@ -67,3 +67,6 @@ class Studentss:
         print(self.이름, self.나이)
 Studentss = Studentss("윤인성", 3)
 Studentss.출력()
+
+
+print('hello')
